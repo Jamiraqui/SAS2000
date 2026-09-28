@@ -9,7 +9,9 @@
     "registration": "https://forms.gle/9sjYHu2EfaLXJhat5",
     "sourceRow": 2,
     "date": "10/14/2026",
-    "time": "1:30 PM – 4:30 PM"
+    "time": "1:30 PM – 4:30 PM",
+    "registrationClosed": true,
+    "registrationCheckedAt": "2026-09-28"
   },
   {
     "title": "Mindfulness in Everyday Life",
@@ -21,7 +23,9 @@
     "registration": "https://forms.gle/VKcsXgwPiLqfqEEn8",
     "sourceRow": 3,
     "date": "10/10/2026",
-    "time": "9:00 AM – 11:00 AM"
+    "time": "9:00 AM – 11:00 AM",
+    "registrationClosed": true,
+    "registrationCheckedAt": "2026-09-28"
   },
   {
     "title": "[SSC] Emotional Self-regulation (Run 1)",
@@ -33,7 +37,9 @@
     "registration": "https://forms.gle/YH6KHTa1vSziDzUb8",
     "sourceRow": 4,
     "date": "09/28/2026",
-    "time": "10:00 AM"
+    "time": "10:00 AM",
+    "registrationClosed": true,
+    "registrationCheckedAt": "2026-09-28"
   },
   {
     "title": "[SSC] Emotional Self-regulation (Run 2)",
@@ -45,7 +51,9 @@
     "registration": "https://forms.gle/Yxz2nVZT5EYupAgw5",
     "sourceRow": 5,
     "date": "10/01/2026",
-    "time": "10:00 AM"
+    "time": "10:00 AM",
+    "registrationClosed": false,
+    "registrationCheckedAt": "2026-09-28"
   },
   {
     "title": "[SSC] Interpersonal Effectiveness: Cultivating Healthy Relationships Personally and Professionally (RUN 1)",
@@ -57,23 +65,27 @@
     "registration": "https://forms.gle/ukCAyt8X6VfBqx7p9",
     "sourceRow": 6,
     "date": "10/12/2026",
-    "time": "2:00 PM – 4:00 PM"
+    "time": "2:00 PM – 4:00 PM",
+    "registrationClosed": false,
+    "registrationCheckedAt": "2026-09-28"
   },
   {
     "title": "[SSC] Interpersonal Effectiveness: Cultivating Healthy Relationships Personally and Professionally (RUN 2)",
     "description": "This module helps students communicate effectively in ways that will nurture and enhance their relationships -- may it be personal or professional, address conflicts or issues when they arise, all while leaving them a greater sense of self-respect.",
     "developer": "Mau Ledesma, maureen.b.ledesma@dlsu.edu.ph",
     "mode": "Online",
-    "session": "11/18/2026 at 2:00-4:00 PM",
+    "session": "11/25/2026 at 2:00-4:00 PM",
     "venue": "Zoom",
     "registration": "https://forms.gle/S1SfAAFR8MEwEc9HA",
     "sourceRow": 7,
-    "date": "11/18/2026",
-    "time": "2:00 PM – 4:00 PM"
+    "date": "11/25/2026",
+    "time": "2:00 PM – 4:00 PM",
+    "registrationClosed": false,
+    "registrationCheckedAt": "2026-09-28"
   },
   {
     "title": "[SSC] Personal Leadership | Time Management",
-    "description": "This module is dedicated to emphasizing time management, a foundational skill in the cultivation of leadership abilities. Within this module, students will engage in a workshop centered around Covey's Time Management Framework, which aids in identifying and implementing strategies for becoming adept and productive leaders by appropriately organizing and prioritizing various tasks.",
+    "description": "This module is dedicated to emphasizing time management, a foundational skill in the cultivation of leadership abilities. Within this module, students will engage in a workshop centered around Covey's Time Management Framework, which aids in identifying and implementing strategies for becoming adept and productive leaders by appropriately organizing and prioritizing various tasks. ",
     "developer": "Amir Austria, amir.austria@dlsu.edu.ph",
     "mode": "Online",
     "session": "10/7/2026 at 10:00AM-12:00PM",
@@ -81,7 +93,9 @@
     "registration": "https://zoom.us/meeting/register/yeUv2e3NT2a6WRIHMIYKLA",
     "sourceRow": 8,
     "date": "10/07/2026",
-    "time": "10:00 AM – 12:00 PM"
+    "time": "10:00 AM – 12:00 PM",
+    "registrationClosed": false,
+    "registrationCheckedAt": "2026-09-28"
   },
   {
     "title": "[SSC] Negotiate Anything with Anyone on a Day-To-Day (RUN 1) F2F",
@@ -93,11 +107,13 @@
     "registration": "https://docs.google.com/forms/d/e/1FAIpQLSeO6Bjdx7sQctfs3cn0rGs6UP0hWhUiIumb9J_JV4w3UzCwIQ/viewform?usp=header",
     "sourceRow": 9,
     "date": "09/30/2026",
-    "time": "8:00 AM – 10:00 AM"
+    "time": "8:00 AM – 10:00 AM",
+    "registrationClosed": true,
+    "registrationCheckedAt": "2026-09-28"
   },
   {
     "title": "[SSC] Breaking Barriers to Success (RUN 1) F2F",
-    "description": "Success is one thing we all want to achieve. But to be able to get this, we usually stumbled upon various barriers that are brought by both internal and external factors. These factors usually hinder us from taking the journey to our greatest potential, and this module endeavors to help you navigate your way to success with a stronger mindset and equipped with perspectives that will help build, set plans and kick-start your successful journey.",
+    "description": "Success is one thing we all want to achieve. But to be able to get this, we usually stumbled upon various barriers that are brought by both internal and external factors. These factors usually hinder us from taking the journey to our greatest potential, and this module endeavors to help you navigate your way to success with a stronger mindset and equipped with perspectives that will help build, set plans and kick-start your successful journey.\n\n",
     "developer": "Ms. Crystal Angeles\ncrystal.angeles@dlsu.edu.ph",
     "mode": "Face to Face",
     "session": "October 14, 2026, 08:00AM - 10:00AM",
@@ -105,11 +121,13 @@
     "registration": "https://forms.gle/UDmEjRgMcjZSzp9w6",
     "sourceRow": 10,
     "date": "10/14/2026",
-    "time": "8:00 AM – 10:00 AM"
+    "time": "8:00 AM – 10:00 AM",
+    "registrationClosed": true,
+    "registrationCheckedAt": "2026-09-28"
   },
   {
     "title": "[SSC] Breaking Barriers to Success (RUN 2) Online",
-    "description": "Success is one thing we all want to achieve. But to be able to get this, we usually stumbled upon various barriers that are brought by both internal and external factors. These factors usually hinder us from taking the journey to our greatest potential, and this module endeavors to help you navigate your way to success with a stronger mindset and equipped with perspectives that will help build, set plans and kick-start your successful journey.",
+    "description": "Success is one thing we all want to achieve. But to be able to get this, we usually stumbled upon various barriers that are brought by both internal and external factors. These factors usually hinder us from taking the journey to our greatest potential, and this module endeavors to help you navigate your way to success with a stronger mindset and equipped with perspectives that will help build, set plans and kick-start your successful journey.\n\n",
     "developer": "Ms. Crystal Angeles\ncrystal.angeles@dlsu.edu.ph",
     "mode": "Online",
     "session": "October 17, 2026, 08:00AM - 10:00AM",
@@ -117,115 +135,135 @@
     "registration": "https://forms.gle/1L6i5nQi5jLs5YFW7",
     "sourceRow": 11,
     "date": "10/17/2026",
-    "time": "8:00 AM – 10:00 AM"
+    "time": "8:00 AM – 10:00 AM",
+    "registrationClosed": true,
+    "registrationCheckedAt": "2026-09-28"
   },
   {
     "title": "Lasallian Entrepreneurship and Design Thinking (LSEDT)",
     "description": "Design Thinking is a human-centered and iterative approach to problem-solving that focuses on understanding people’s needs, defining the right problem, and developing meaningful solutions. It involves empathizing, defining, ideating, prototyping, and testing ideas through collaboration and continuous feedback.\n\nIt includes a mini workshop: The “Wallet Project”",
-    "developer": "Dr. Norby Salonga, CHRP\nnorby.salonga@dlsu.edu.ph\n\nMarina Oro\nmarina.oro@dlsu.edu.ph",
+    "developer": "Dr. Norby Salonga, CHRP\nnorby.salonga@dlsu.edu.ph\n\nMarina Oro\nmarina.oro@dlsu.edu.ph\n\n",
     "mode": "Face to Face",
     "session": "3 Oct. 2026 [Saturday]\n\n1:30 PM - 400 PM",
     "venue": "BAGH \nRoom A1703",
     "registration": "https://forms.gle/TZk7WgNyA3MGyS1S9",
     "sourceRow": 12,
     "date": "10/03/2026",
-    "time": "1:30 PM – 4:00 PM"
+    "time": "1:30 PM – 4:00 PM",
+    "registrationClosed": false,
+    "registrationCheckedAt": "2026-09-28"
   },
   {
     "title": "Lasallian Entrepreneurship and Design Thinking (LSEDT)",
     "description": "Design Thinking is a human-centered and iterative approach to problem-solving that focuses on understanding people’s needs, defining the right problem, and developing meaningful solutions. It involves empathizing, defining, ideating, prototyping, and testing ideas through collaboration and continuous feedback.\n\nIt includes a mini workshop: The “Wallet Project”",
-    "developer": "Dr. Norby Salonga, CHRP\nnorby.salonga@dlsu.edu.ph\n\nMarina Oro\nmarina.oro@dlsu.edu.ph",
+    "developer": "Dr. Norby Salonga, CHRP\nnorby.salonga@dlsu.edu.ph\n\nMarina Oro\nmarina.oro@dlsu.edu.ph\n\n",
     "mode": "Face to Face",
     "session": "14 Oct. 2026\n\n9:30 AM - 12:00 PM\n[Wednesday]\n",
     "venue": "BAGH \nRoom A1708",
     "registration": "https://forms.gle/ZYGdnefUXkZeq6cb9",
     "sourceRow": 13,
     "date": "10/14/2026",
-    "time": "9:30 AM – 12:00 PM"
+    "time": "9:30 AM – 12:00 PM",
+    "registrationClosed": false,
+    "registrationCheckedAt": "2026-09-28"
   },
   {
     "title": "Lasallian Entrepreneurship and Design Thinking (LSEDT)",
     "description": "Design Thinking is a human-centered and iterative approach to problem-solving that focuses on understanding people’s needs, defining the right problem, and developing meaningful solutions. It involves empathizing, defining, ideating, prototyping, and testing ideas through collaboration and continuous feedback.\n\nIt includes a mini workshop: The “Wallet Project”",
-    "developer": "Dr. Norby Salonga, CHRP\nnorby.salonga@dlsu.edu.ph\n\nMarina Oro\nmarina.oro@dlsu.edu.ph",
+    "developer": "Dr. Norby Salonga, CHRP\nnorby.salonga@dlsu.edu.ph\n\nMarina Oro\nmarina.oro@dlsu.edu.ph\n\n",
     "mode": "Face to Face",
     "session": "14 Oct. 2026\n\n1:30 PM - 4:00 PM\n[Wednesday]\n",
     "venue": "BAGH \nRoom A1708",
     "registration": "https://forms.gle/czK7bRD6rxCtkGAz6",
     "sourceRow": 14,
     "date": "10/14/2026",
-    "time": "1:30 PM – 4:00 PM"
+    "time": "1:30 PM – 4:00 PM",
+    "registrationClosed": false,
+    "registrationCheckedAt": "2026-09-28"
   },
   {
     "title": "Lasallian Entrepreneurship and Design Thinking (LSEDT)",
     "description": "Design Thinking is a human-centered and iterative approach to problem-solving that focuses on understanding people’s needs, defining the right problem, and developing meaningful solutions. It involves empathizing, defining, ideating, prototyping, and testing ideas through collaboration and continuous feedback.\n\nIt includes a mini workshop: The “Wallet Project”",
-    "developer": "Dr. Norby Salonga, CHRP\nnorby.salonga@dlsu.edu.ph\n\nMarina Oro\nmarina.oro@dlsu.edu.ph",
+    "developer": "Dr. Norby Salonga, CHRP\nnorby.salonga@dlsu.edu.ph\n\nMarina Oro\nmarina.oro@dlsu.edu.ph\n\n",
     "mode": "Face to Face",
     "session": "21 Oct. 2026\n\n9:30 AM - 12:00 PM\n[Wednesday]\n",
     "venue": "BAGH\nRoom A703",
     "registration": "https://forms.gle/m3ETZ3BfbW91tRcNA",
     "sourceRow": 15,
     "date": "10/21/2026",
-    "time": "9:30 AM – 12:00 PM"
+    "time": "9:30 AM – 12:00 PM",
+    "registrationClosed": false,
+    "registrationCheckedAt": "2026-09-28"
   },
   {
     "title": "Circular Economy and Social Innovation (CESI)",
     "description": "Circular Economy and Social Innovation focuses on developing sustainable and inclusive solutions that rethink how resources are used, products are designed, and communities create value. It combines circular principles—such as reducing waste, reusing resources, and regenerating systems—with social innovation to address social and environmental challenges while creating lasting positive impact.\n\nActivity: Group mini-workshop on circular economy",
-    "developer": "Dr. Norby Salonga, CHRP\nnorby.salonga@dlsu.edu.ph\n\nMarina Oro\nmarina.oro@dlsu.edu.ph",
+    "developer": "Dr. Norby Salonga, CHRP\nnorby.salonga@dlsu.edu.ph\n\nMarina Oro\nmarina.oro@dlsu.edu.ph\n\n",
     "mode": "Face to Face",
     "session": "21 Oct. 2026\n\n1:30 PM - 4:00 PM\n[Wednesday]\n",
     "venue": "BAGH\nRoom A703",
     "registration": "https://forms.gle/vwSf7oKzgTYraUTcA",
     "sourceRow": 16,
     "date": "10/21/2026",
-    "time": "1:30 PM – 4:00 PM"
+    "time": "1:30 PM – 4:00 PM",
+    "registrationClosed": false,
+    "registrationCheckedAt": "2026-09-28"
   },
   {
     "title": "Circular Economy and Social Innovation (CESI)",
     "description": "Circular Economy and Social Innovation focuses on developing sustainable and inclusive solutions that rethink how resources are used, products are designed, and communities create value. It combines circular principles—such as reducing waste, reusing resources, and regenerating systems—with social innovation to address social and environmental challenges while creating lasting positive impact.\n\nActivity: Group mini-workshop on circular economy",
-    "developer": "Dr. Norby Salonga, CHRP\nnorby.salonga@dlsu.edu.ph\n\nMarina Oro\nmarina.oro@dlsu.edu.ph",
+    "developer": "Dr. Norby Salonga, CHRP\nnorby.salonga@dlsu.edu.ph\n\nMarina Oro\nmarina.oro@dlsu.edu.ph\n\n",
     "mode": "Face to Face",
     "session": "4 Nov. 2026\n\n9:30 AM - 12:00 PM\n[Wednesday]",
     "venue": "BAGH\nRoom A1703",
     "registration": "https://forms.gle/HQRXfYTdbQaebkPw7",
     "sourceRow": 17,
     "date": "11/04/2026",
-    "time": "9:30 AM – 12:00 PM"
+    "time": "9:30 AM – 12:00 PM",
+    "registrationClosed": false,
+    "registrationCheckedAt": "2026-09-28"
   },
   {
     "title": "Circular Economy and Social Innovation (CESI)",
     "description": "Circular Economy and Social Innovation focuses on developing sustainable and inclusive solutions that rethink how resources are used, products are designed, and communities create value. It combines circular principles—such as reducing waste, reusing resources, and regenerating systems—with social innovation to address social and environmental challenges while creating lasting positive impact.\n\nActivity: Group mini-workshop on circular economy",
-    "developer": "Dr. Norby Salonga, CHRP\nnorby.salonga@dlsu.edu.ph\n\nMarina Oro\nmarina.oro@dlsu.edu.ph",
+    "developer": "Dr. Norby Salonga, CHRP\nnorby.salonga@dlsu.edu.ph\n\nMarina Oro\nmarina.oro@dlsu.edu.ph\n\n",
     "mode": "Face to Face",
     "session": "4 Nov. 2026\n\n1:30 PM - 4:00 PM\n[Wednesday]",
     "venue": "BAGH\nRoom A1703",
     "registration": "https://forms.gle/DAeRbv2EkYv4BUeQ9",
     "sourceRow": 18,
     "date": "11/04/2026",
-    "time": "1:30 PM – 4:00 PM"
+    "time": "1:30 PM – 4:00 PM",
+    "registrationClosed": false,
+    "registrationCheckedAt": "2026-09-28"
   },
   {
     "title": "Circular Economy and Social Innovation (CESI)",
     "description": "Circular Economy and Social Innovation focuses on developing sustainable and inclusive solutions that rethink how resources are used, products are designed, and communities create value. It combines circular principles—such as reducing waste, reusing resources, and regenerating systems—with social innovation to address social and environmental challenges while creating lasting positive impact.\n\nActivity: Group mini-workshop on circular economy",
-    "developer": "Dr. Norby Salonga, CHRP\nnorby.salonga@dlsu.edu.ph\n\nMarina Oro\nmarina.oro@dlsu.edu.ph",
+    "developer": "Dr. Norby Salonga, CHRP\nnorby.salonga@dlsu.edu.ph\n\nMarina Oro\nmarina.oro@dlsu.edu.ph\n\n",
     "mode": "Face to Face",
-    "session": "18 Nov. 2026\n\n9:30 AM - 12:00 PM\n[Wednesday]",
-    "venue": "BAGH\nRoom A903",
-    "registration": "https://forms.gle/fPk4B5CvXpB6oqvb9",
+    "session": "25 Nov. 2026\n\n9:30 AM - 12:00 PM\n[Wednesday]",
+    "venue": "BAGH \nRoom A1110",
+    "registration": "https://forms.gle/8R1YDnKxPqstgGAh8",
     "sourceRow": 19,
-    "date": "11/18/2026",
-    "time": "9:30 AM – 12:00 PM"
+    "date": "11/25/2026",
+    "time": "9:30 AM – 12:00 PM",
+    "registrationClosed": false,
+    "registrationCheckedAt": "2026-09-28"
   },
   {
     "title": "Circular Economy and Social Innovation (CESI)",
     "description": "Circular Economy and Social Innovation focuses on developing sustainable and inclusive solutions that rethink how resources are used, products are designed, and communities create value. It combines circular principles—such as reducing waste, reusing resources, and regenerating systems—with social innovation to address social and environmental challenges while creating lasting positive impact.\n\nActivity: Group mini-workshop on circular economy",
-    "developer": "Dr. Norby Salonga, CHRP\nnorby.salonga@dlsu.edu.ph\n\nMarina Oro\nmarina.oro@dlsu.edu.ph",
+    "developer": "Dr. Norby Salonga, CHRP\nnorby.salonga@dlsu.edu.ph\n\nMarina Oro\nmarina.oro@dlsu.edu.ph\n\n",
     "mode": "Face to Face",
-    "session": "18 Nov. 2026\n\n1:30 PM - 4:00 PM\n[Wednesday]",
-    "venue": "BAGH\nRoom A903",
-    "registration": "https://forms.gle/VY4oc73DjRuQunMp7",
+    "session": "25 Nov. 2026\n\n1:30 PM - 4:00 PM\n[Wednesday]",
+    "venue": "BAGH \nRoom A1110",
+    "registration": "https://forms.gle/2wPyKeNwQn5H1CTS7",
     "sourceRow": 20,
-    "date": "11/18/2026",
-    "time": "1:30 PM – 4:00 PM"
+    "date": "11/25/2026",
+    "time": "1:30 PM – 4:00 PM",
+    "registrationClosed": false,
+    "registrationCheckedAt": "2026-09-28"
   },
   {
     "title": "Discipline Education Caravan: Paano Nga Ba? – Navigating the Ethics of AI-Assisted Learning",
@@ -237,7 +275,9 @@
     "registration": "https://forms.gle/5HscK7BT93F8EdhN8",
     "sourceRow": 21,
     "date": "10/03/2026",
-    "time": "1:00 PM – 3:30 PM"
+    "time": "1:00 PM – 3:30 PM",
+    "registrationClosed": false,
+    "registrationCheckedAt": "2026-09-28"
   },
   {
     "title": "Discipline Education Caravan: Paano Nga Ba? – Smart Productivity: EdTech Solutions for Habit Building and Goal Execution",
@@ -249,7 +289,9 @@
     "registration": "https://forms.gle/bec1WY1hXwvEnPKj7",
     "sourceRow": 22,
     "date": "10/09/2026",
-    "time": "1:30 PM – 4:00 PM"
+    "time": "1:30 PM – 4:00 PM",
+    "registrationClosed": false,
+    "registrationCheckedAt": "2026-09-28"
   },
   {
     "title": "Discipline Education Caravan: Paano Nga Ba? – Managing Frustration: Emotional Regulation, Self-Control, and Respectful Communication",
@@ -261,7 +303,9 @@
     "registration": "https://forms.gle/1XcUebp5VVZFbqpr8",
     "sourceRow": 23,
     "date": "10/21/2026",
-    "time": "1:30 PM – 4:00 PM"
+    "time": "1:30 PM – 4:00 PM",
+    "registrationClosed": false,
+    "registrationCheckedAt": "2026-09-28"
   },
   {
     "title": "Discipline Education Caravan: Paano Nga Ba? – Controlling Impulse Spending: Personal Budgeting and Financial Stewardship",
@@ -273,7 +317,9 @@
     "registration": "https://forms.gle/jFKhJi3mRW6gR3qXA",
     "sourceRow": 24,
     "date": "10/28/2026",
-    "time": "1:30 PM – 4:00 PM"
+    "time": "1:30 PM – 4:00 PM",
+    "registrationClosed": false,
+    "registrationCheckedAt": "2026-09-28"
   },
   {
     "title": "Discipline Education Caravan: Paano Nga Ba? – Cultivating Digital Vigilance: Cybersecurity, Data Privacy, and Risk Awareness",
@@ -285,7 +331,9 @@
     "registration": "https://forms.gle/df3rMsJJQHZQ7RHaA",
     "sourceRow": 25,
     "date": "11/13/2026",
-    "time": "1:30 PM – 4:00 PM"
+    "time": "1:30 PM – 4:00 PM",
+    "registrationClosed": false,
+    "registrationCheckedAt": "2026-09-28"
   },
   {
     "title": "[SSC] Understanding Financial Literacy: Practical Steps for Personal Finances (Run 1)",
@@ -297,7 +345,9 @@
     "registration": "https://forms.gle/9JGcVqwiZhFA8EBd7",
     "sourceRow": 26,
     "date": "10/01/2026",
-    "time": "Time not specified"
+    "time": "Time not specified",
+    "registrationClosed": false,
+    "registrationCheckedAt": "2026-09-28"
   },
   {
     "title": "[SSC] Understanding Financial Literacy: Practical Steps for Personal Finances (Run 2)",
@@ -309,7 +359,9 @@
     "registration": "https://forms.gle/3mG6Ukq6XW8r6DVXA",
     "sourceRow": 27,
     "date": "10/12/2026",
-    "time": "Time not specified"
+    "time": "Time not specified",
+    "registrationClosed": false,
+    "registrationCheckedAt": "2026-09-28"
   },
   {
     "title": "[SSC] Understanding Financial Literacy: Practical Steps for Personal Finances (Run 3)",
@@ -321,7 +373,9 @@
     "registration": "https://forms.gle/Q4gTmyCSSX7XCCNq7",
     "sourceRow": 28,
     "date": "10/15/2026",
-    "time": "Time not specified"
+    "time": "Time not specified",
+    "registrationClosed": false,
+    "registrationCheckedAt": "2026-09-28"
   },
   {
     "title": "Discover Your Purpose Run 7",
@@ -329,11 +383,13 @@
     "developer": "Pat Mallari, ma.ana.mallari@dlsu.edu.ph",
     "mode": "Online",
     "session": "29 Sept 2026",
-    "venue": "",
+    "venue": null,
     "registration": "https://zoom.us/meeting/register/FJLlb1FGSMKm3YFPsWsUJQ",
     "sourceRow": 29,
     "date": "09/29/2026",
-    "time": "Time not specified"
+    "time": "Time not specified",
+    "registrationClosed": false,
+    "registrationCheckedAt": "2026-09-28"
   },
   {
     "title": "Discover Your Purpose Run 8",
@@ -345,7 +401,9 @@
     "registration": "https://zoom.us/meeting/register/ICyVnNNtQ6O9xHlbRTe0DQ",
     "sourceRow": 30,
     "date": "09/30/2026",
-    "time": "Time not specified"
+    "time": "Time not specified",
+    "registrationClosed": false,
+    "registrationCheckedAt": "2026-09-28"
   },
   {
     "title": "[SSC] Beyond \"Are You OK?\": How to Truly Support Someone in Distress [Run 2]",
@@ -354,10 +412,12 @@
     "mode": "Online",
     "session": "October 1, 2026\n1:30 - 3:00 PM",
     "venue": "Zoom",
-    "registration": "https://forms.gle/skpN3yqcNNwnYzNq5",
+    "registration": "https://forms.gle/q972LogBHijAQSZD9",
     "sourceRow": 31,
     "date": "10/01/2026",
-    "time": "1:30 PM – 3:00 PM"
+    "time": "1:30 PM – 3:00 PM",
+    "registrationClosed": false,
+    "registrationCheckedAt": "2026-09-28"
   },
   {
     "title": "[SSC] Beyond \"Are You OK?\": How to Truly Support Someone in Distress [Run 3]",
@@ -366,57 +426,81 @@
     "mode": "Online",
     "session": "October 1, 2026\n3:30 - 5:00 PM",
     "venue": "Zoom",
-    "registration": "https://forms.gle/skpN3yqcNNwnYzNq5",
+    "registration": "https://forms.gle/fwiT1HR83VCeQNQ66",
     "sourceRow": 32,
     "date": "10/01/2026",
-    "time": "3:30 PM – 5:00 PM"
+    "time": "3:30 PM – 5:00 PM",
+    "registrationClosed": false,
+    "registrationCheckedAt": "2026-09-28"
   },
   {
     "title": "[SSC] Vibe Checks & Group Projects: Collaborating When You Just Don't Click [Run 3]",
-    "description": "Let’s be honest: at some point in college, you’re going to get stuck in a group project with someone who pushes your buttons. This webinar provides actionable strategies to rise above personal friction, maintain high standards of professionalism, and successfully execute team goals. Participants will learn how to navigate interpersonal conflict objectively, safeguard project outcomes, and develop the essential leadership skills that recruiters actively look for.",
+    "description": "Let’s be honest: at some point in college, you’re going to get stuck in a group project with someone who pushes your buttons. This webinar provides actionable strategies to rise above personal friction, maintain high standards of professionalism, and successfully execute team goals. Participants will learn how to navigate interpersonal conflict objectively, safeguard project outcomes, and develop the essential leadership skills that recruiters actively look for.\n",
     "developer": "Myra G. Gahid-Lin; myra.gahid@dlsu.edu.ph",
     "mode": "Online",
     "session": "October 8, 2026\n1:30 - 3:00 PM",
     "venue": "Zoom",
-    "registration": "https://forms.gle/s9KgwfoVWaYHHDVS8",
+    "registration": "https://forms.gle/jGRh8fEhiLdg6hu6A",
     "sourceRow": 33,
     "date": "10/08/2026",
-    "time": "1:30 PM – 3:00 PM"
+    "time": "1:30 PM – 3:00 PM",
+    "registrationClosed": false,
+    "registrationCheckedAt": "2026-09-28"
   },
   {
     "title": "[SSC] Vibe Checks & Group Projects: Collaborating When You Just Don't Click [Run 4]",
-    "description": "Let’s be honest: at some point in college, you’re going to get stuck in a group project with someone who pushes your buttons. This webinar provides actionable strategies to rise above personal friction, maintain high standards of professionalism, and successfully execute team goals. Participants will learn how to navigate interpersonal conflict objectively, safeguard project outcomes, and develop the essential leadership skills that recruiters actively look for.",
+    "description": "Let’s be honest: at some point in college, you’re going to get stuck in a group project with someone who pushes your buttons. This webinar provides actionable strategies to rise above personal friction, maintain high standards of professionalism, and successfully execute team goals. Participants will learn how to navigate interpersonal conflict objectively, safeguard project outcomes, and develop the essential leadership skills that recruiters actively look for.\n",
     "developer": "Myra G. Gahid-Lin; myra.gahid@dlsu.edu.ph",
     "mode": "Online",
     "session": "October 8, 2026\n3:30 - 5:00 PM",
     "venue": "Zoom",
-    "registration": "https://forms.gle/s9KgwfoVWaYHHDVS8",
+    "registration": "https://forms.gle/NGaZHuHk74WTj6XG9",
     "sourceRow": 34,
     "date": "10/08/2026",
-    "time": "3:30 PM – 5:00 PM"
+    "time": "3:30 PM – 5:00 PM",
+    "registrationClosed": false,
+    "registrationCheckedAt": "2026-09-28"
   },
   {
     "title": "Safe Spaces for All! \nAdvancing Gender Equality\n with the Safe Spaces Act",
     "description": "This module will explore the significance of the Safe Spaces Act (RA 11313) in fostering inclusive, harassment-free environments. It will highlight the key purpose of the law, its role in promoting gender equality, and practical steps for implementing safe spaces in various settings, such as schools and workplaces. Participants will gain insights into how the Safe Spaces Act serves as a tool for empowering individuals, fostering respect, and creating a culture of safety for all.",
     "developer": "Mr. Christian Derek S. Guerra, lcidw@dlsu.edu.ph",
     "mode": "Face to Face",
-    "session": "10/14/2026",
+    "session": "10/14/2026\n1:30 PM - 4:00 PM",
     "venue": "Br. Andrew 1505",
     "registration": "https://docs.google.com/forms/d/e/1FAIpQLSdwwsMfbkMKq3k0LMo_hT_oyGg6xAAK7VMUe13Qbash74rwjA/viewform?usp=dialog",
     "sourceRow": 35,
     "date": "10/14/2026",
-    "time": "Time not specified"
+    "time": "1:30 PM – 4:00 PM",
+    "registrationClosed": true,
+    "registrationCheckedAt": "2026-09-28"
   },
   {
     "title": "Safe Spaces for All! \nAdvancing Gender Equality\n with the Safe Spaces Act",
     "description": "This module will explore the significance of the Safe Spaces Act (RA 11313) in fostering inclusive, harassment-free environments. It will highlight the key purpose of the law, its role in promoting gender equality, and practical steps for implementing safe spaces in various settings, such as schools and workplaces. Participants will gain insights into how the Safe Spaces Act serves as a tool for empowering individuals, fostering respect, and creating a culture of safety for all.",
     "developer": "Mr. Christian Derek S. Guerra, lcidw@dlsu.edu.ph",
     "mode": "Face to Face",
-    "session": "10/19/2026",
+    "session": "10/19/2026\n1:30 PM - 4:00 PM",
     "venue": "Br. Andrew 1505",
     "registration": "https://docs.google.com/forms/d/e/1FAIpQLSdKAgbnTPT9dRSP6E_3YcTmTuQr4P1tPM235mQw6LIjt19D6A/viewform?usp=dialog",
     "sourceRow": 36,
     "date": "10/19/2026",
-    "time": "Time not specified"
+    "time": "1:30 PM – 4:00 PM",
+    "registrationClosed": false,
+    "registrationCheckedAt": "2026-09-28"
+  },
+  {
+    "title": "Finding Your Way: Fundamentals of Map Reading and Land Navigation",
+    "description": "The module introduces the fundamentals of land navigation, map reading, and the practical application of navigational skills in outdoor and unfamiliar environments. The students will learn how to read and interpret maps, identify directions and terrain features, utilize a compass and protractor, and determine azimuths and back azimuths through guided instruction, hands-on activities, and practical exercises. The module will provide participants with opportunities to apply these skills in simulated navigation scenarios that encourage situational awareness, preparedness, and effective decision-making. By the end of the module, students will be able to demonstrate basic land navigation skills, improve their ability to interpret navigational references, and recognize the importance of communication, teamwork, and critical thinking when navigating unfamiliar or challenging environments.\r\n",
+    "developer": "Catherine Panganiban, catherine.panganiban@dlsu.edu.ph",
+    "mode": "Face to Face",
+    "session": "10/24/2026 (Saturday) 2:30 p.m. - 4:30 p.m. ",
+    "venue": "SJ211",
+    "registration": "https://forms.gle/JdM6cA5QwzCUNsi78",
+    "sourceRow": 37,
+    "date": "10/24/2026",
+    "time": "2:30 PM – 4:30 PM",
+    "registrationClosed": false,
+    "registrationCheckedAt": "2026-09-28"
   }
 ]
