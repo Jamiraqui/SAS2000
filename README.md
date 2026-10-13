@@ -38,7 +38,7 @@ For a production build, run `pnpm build`.
 
 ## Content and assets
 
-- `src/inventory.json`: all 36 sessions, copied from the Module Inventory tab on September 28, 2026. This is a snapshot, not a live spreadsheet connection.
+- `src/inventory.json`: 43 sessions: the September 28 inventory plus seven new Batch 2 sessions, with eleven matching sessions refreshed on October 13, 2026. This is a snapshot, not a live spreadsheet connection.
 - `src/App.tsx`: module cards, icon assignments, and registration availability. Normalized dates/times are stored with each session in `src/inventory.json`.
 - `src/components/`: navigation and animated hero.
 - `src/index.css`: responsive layout, fonts, and DLSU colors.
@@ -56,3 +56,11 @@ This folder intentionally excludes dependencies, build output, Git history, cred
 `registrationClosed` is a manually verified snapshot of the linked registration form. Closed sessions remain readable but show a badge and disabled registration button with no registration anchor. Refresh these flags when registrations reopen or close; the site does not poll Google Forms or Zoom. Sign-in requirements and absent controls alone are not treated as closure.
 
 Confirmed closed: Beyond the Last Minute; Mindfulness in Everyday Life; Emotional Self-regulation Run 1; Negotiate Anything Run 1; Breaking Barriers Runs 1 and 2; Safe Spaces on October 14. The linked Google Forms displayed closure notices or their closed-form page.
+
+## October 13, 2026 refresh
+
+Source: https://docs.google.com/spreadsheets/d/19y3OCjcIy34x8DR0MXIBFT4ZW5ra1yree8t0IdE1oIs/edit?gid=286962066#gid=286962066 (Module Inventory only).
+
+Batch 2 adds KAMALAYAN, Heroism from the Heart, Stress and Trauma, Navigating the Grief Journey, Strengthening Minds, and Discover Your Purpose Runs 9 and 10. New sessions appear first; matching registration URLs update existing cards without duplicates. Existing sessions and previously confirmed closures are retained. Source spreadsheet IDs distinguish Batch 2 source rows from the original inventory.
+
+KAMALAYAN and Heroism have no start time in the sheet and display “Not specified.” Public Google registration forms in Batch 2 were checked on October 13; sign-in-only forms and Zoom pages are not treated as proof of open or closed registration. An empty registrationCheckedAt means no definitive form status was verified.
