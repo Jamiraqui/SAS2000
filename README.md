@@ -67,4 +67,4 @@ KAMALAYAN and Heroism have no start time in the sheet and display “Not specifi
 
 ## October 14, 2026 refresh
 
-The Term 1 Batch 1 Module Inventory now lists the November 11 Navigating the Grief Journey session as 10:00 AM–12:00 PM with a revised title, description, and registration link. The existing card was updated rather than duplicated. Its developer name and email were retained from the Batch 2 inventory because the latest developer cell contains a registration URL. The new form requires sign-in, so its closure status remains unverified.
+The Term 1 Batch 1 Module Inventory now lists the November 11 Navigating the Grief Journey session as 10:00 AM–12:00 PM with a revised title, description, and registration link. The existing card was updated rather than duplicated. Its developer name and email were retained from the Batch 2 inventory because the latest developer cell contains a registration URL. The new form was checked in an authenticated browser on October 14 and displayed live registration questions.
