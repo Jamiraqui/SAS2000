@@ -38,7 +38,7 @@ For a production build, run `pnpm build`.
 
 ## Content and assets
 
-- `src/inventory.json`: 43 sessions: the September 28 inventory plus seven new Batch 2 sessions, with eleven matching sessions refreshed on October 13, 2026. This is a snapshot, not a live spreadsheet connection.
+- `src/inventory.json`: 46 sessions: the September 28 inventory plus ten new Batch 2 sessions, with eleven matching sessions refreshed on October 13, 2026. This is a snapshot, not a live spreadsheet connection.
 - `src/App.tsx`: module cards, icon assignments, and registration availability. Normalized dates/times are stored with each session in `src/inventory.json`.
 - `src/components/`: navigation and animated hero.
 - `src/index.css`: responsive layout, fonts, and DLSU colors.
@@ -68,3 +68,5 @@ KAMALAYAN and Heroism have no start time in the sheet and display “Not specifi
 ## October 14, 2026 refresh
 
 The Term 1 Batch 1 Module Inventory now lists the November 11 Navigating the Grief Journey session as 10:00 AM–12:00 PM with a revised title, description, and registration link. The existing card was updated rather than duplicated. Its developer name and email were retained from the Batch 2 inventory because the latest developer cell contains a registration URL. The new form was checked in an authenticated browser on October 14 and displayed live registration questions.
+
+The October 14 Batch 2 refresh adds two PAHINGALAY sessions (10:00 AM and 2:00 PM on October 21) and JEMA Forge: Off the Hook (October 21; time not specified in the sheet). The JEMA registration URL is reproduced from the sheet, although its destination form is currently titled “JEMA Forge: Sculpting Stellar Case Solutions Pre-Registration Form.” The two PAHINGALAY links require sign-in, so their registration status has not been independently confirmed.
