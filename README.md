@@ -64,3 +64,7 @@ Source: https://docs.google.com/spreadsheets/d/19y3OCjcIy34x8DR0MXIBFT4ZW5ra1yre
 Batch 2 adds KAMALAYAN, Heroism from the Heart, Stress and Trauma, Navigating the Grief Journey, Strengthening Minds, and Discover Your Purpose Runs 9 and 10. New sessions appear first; matching registration URLs update existing cards without duplicates. Existing sessions and previously confirmed closures are retained. Source spreadsheet IDs distinguish Batch 2 source rows from the original inventory.
 
 KAMALAYAN and Heroism have no start time in the sheet and display “Not specified.” Public Google registration forms in Batch 2 were checked on October 13; sign-in-only forms and Zoom pages are not treated as proof of open or closed registration. An empty registrationCheckedAt means no definitive form status was verified.
+
+## October 14, 2026 refresh
+
+The Term 1 Batch 1 Module Inventory now lists the November 11 Navigating the Grief Journey session as 10:00 AM–12:00 PM with a revised title, description, and registration link. The existing card was updated rather than duplicated. Its developer name and email were retained from the Batch 2 inventory because the latest developer cell contains a registration URL. The new form requires sign-in, so its closure status remains unverified.
