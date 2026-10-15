@@ -38,7 +38,7 @@ For a production build, run `pnpm build`.
 
 ## Content and assets
 
-- `src/inventory.json`: 47 sessions: the September 28 inventory plus eleven new Batch 2 sessions, with eleven matching sessions refreshed on October 13, 2026. This is a snapshot, not a live spreadsheet connection.
+- `src/inventory.json`: 48 sessions: the September 28 inventory, eleven new Batch 2 sessions, and Step into College Success provided directly by the Student Success Center, with eleven matching sessions refreshed on October 13, 2026. This is a snapshot, not a live spreadsheet connection.
 - `src/App.tsx`: module cards, icon assignments, and registration availability. Normalized dates/times are stored with each session in `src/inventory.json`.
 - `src/components/`: navigation and animated hero.
 - `src/index.css`: responsive layout, fonts, and DLSU colors.
@@ -72,3 +72,7 @@ The Term 1 Batch 1 Module Inventory now lists the November 11 Navigating the Gri
 The October 14 Batch 2 refresh adds two PAHINGALAY sessions (10:00 AM and 2:00 PM on October 21) and JEMA Forge: Off the Hook (October 21; time not specified in the sheet). The JEMA registration URL is reproduced from the sheet, although its destination form is currently titled “JEMA Forge: Sculpting Stellar Case Solutions Pre-Registration Form.” The two PAHINGALAY links require sign-in, so their registration status has not been independently confirmed.
 
 The latest Batch 2 Module Inventory adds The Empty Seat: A Leadership and Student Participation Talk on November 11, 10:00 AM–12:00 PM, at AG901. KAMALAYAN is now scheduled for October 16, 2:00–4:00 PM, and Heroism from the Heart for October 31, 1:30–3:30 PM. The newer Batch 1 correction to Navigating the Grief Journey remains in place.
+
+## October 15, 2026 update
+
+Step into College Success was added from the Student Success Center's supplied event details. It is scheduled for October 21, 2:00–6:00 PM, in Natividad Fajardo, Andrew Building (A1801) and on Zoom. The card links to the supplied registration form and lists Amir Austria as the person in charge. The form requires authentication when checked without a Google session; this alone does not establish that registration is closed.
