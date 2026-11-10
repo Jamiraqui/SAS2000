@@ -38,7 +38,7 @@ For a production build, run `pnpm build`.
 
 ## Content and assets
 
-- `src/inventory.json`: 48 sessions: the September 28 inventory, eleven new Batch 2 sessions, and Step into College Success provided directly by the Student Success Center, with eleven matching sessions refreshed on October 13, 2026. This is a snapshot, not a live spreadsheet connection.
+- `src/inventory.json`: 56 sessions: the previous 48 sessions plus eight new Batch 3 offerings. This is a snapshot, not a live spreadsheet connection.
 - `src/App.tsx`: module cards, icon assignments, and registration availability. Normalized dates/times are stored with each session in `src/inventory.json`.
 - `src/components/`: navigation and animated hero.
 - `src/index.css`: responsive layout, fonts, and DLSU colors.
@@ -76,3 +76,9 @@ The latest Batch 2 Module Inventory adds The Empty Seat: A Leadership and Studen
 ## October 15, 2026 update
 
 Step into College Success was added from the Student Success Center's supplied event details. It is scheduled for October 21, 2:00–6:00 PM, in Natividad Fajardo, Andrew Building (A1801) and on Zoom. The card links to the supplied registration form and lists Amir Austria as the person in charge. The form requires authentication when checked without a Google session; this alone does not establish that registration is closed.
+
+## November 10, 2026 refresh
+
+Source: https://docs.google.com/spreadsheets/d/1SE6fR9Lnm5HmQJh45_qow6ho1JlkSLz_oumapuaYXMs/edit?gid=286962066#gid=286962066 (Module Inventory only).
+
+Batch 3 adds Writing Your Career Story Runs 1 and 2, two Circular Economy and Social Innovation offerings at BAGH A701, Discover Your Purpose Runs 11 and 12, Beyond “Are You OK?” Run 5, and Vibe Checks & Group Projects Run 6. Two other Circular Economy rows reuse existing registration links, so those sessions remain single cards with their previously known dates. The sheet gives dates for the two Career Story runs but no times; it gives neither dates nor times for the other six new offerings. The cards mark those details as unannounced rather than inferring them from certificate release dates or registration links.
